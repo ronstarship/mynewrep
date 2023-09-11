@@ -1,5 +1,5 @@
 config:
-  dockerfile: ronstarship/
+  dockerfile: Dockerfile
   project_name: some-rails-project
 
 services:
