@@ -1,5 +1,5 @@
 config:
-  dockerfile: ronstarship/potato
+  dockerfile: ronstarship
   project_name: some-rails-project
 
 services:
