@@ -1,4 +1,4 @@
-@Library('shared-library') _
+@Library('wolox-ci') _
 
 node {
 
