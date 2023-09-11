@@ -3,7 +3,7 @@
 node {
 
   checkout scm
-  script{
+
   ImportSRC('config.yml');
-  }
+  
 }
