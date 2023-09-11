@@ -1,5 +1,8 @@
 @Library('wolox-ci') _
 
- agent any {
-  woloxCi('config.yml');
+node {
+
+  checkout scm
+
+  woloxCi('.woloxci/config.yml');
 }
