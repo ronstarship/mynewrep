@@ -4,5 +4,5 @@ node {
 
   checkout scm
 
-  woloxCi('.woloxci/config.yml');
+  woloxCi('config.yml');
 }
