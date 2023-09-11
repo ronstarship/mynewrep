@@ -4,6 +4,6 @@ node {
 
   checkout scm
 
-  ImportSRC('config.yml');
+  woloxCi('config.yml');
   
 }
